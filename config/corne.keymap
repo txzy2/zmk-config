@@ -62,10 +62,10 @@
             //                     | GUI |     | ALT/ENT |   | HYPER/SPACE | BKSP |    |
 
             bindings = <
-&kp ESCAPE  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4   &kp N5          &kp NUMBER_6                &kp N7     &kp N8          &kp N9     &kp N0        &kp BACKSPACE
-&kp TAB     &kp F1        &kp LC(X)     &kp LC(Z)     &kp LC(C)      &kp LC(V)       &kp C_VOL_UP                &kp LEFT   &kp UP_ARROW    &kp RIGHT  &kp C_BRI_UP  &none
-&kp LSHFT   &kp C_PREV    &kp C_PP      &kp C_NEXT    &kp LG(SPACE)  &kp DEL         &kp C_VOL_DN                &kp LC(Z)  &kp DOWN_ARROW  &none      &kp C_BRI_DN  &none
-                                        &kp LGUI      &none          &tp LALT RET    &tp LC(LS(LA(LGUI))) SPACE  &none      &none
+&kp ESCAPE   &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4   &kp N5          &kp NUMBER_6                &kp N7     &kp N8          &kp N9     &kp N0        &kp BACKSPACE
+&kp LA(TAB)  &kp F1        &kp LC(X)     &kp LC(Z)     &kp LC(C)      &kp LC(V)       &kp C_VOL_UP                &kp LEFT   &kp UP_ARROW    &kp RIGHT  &kp C_BRI_UP  &none
+&kp LSHFT    &kp C_PREV    &kp C_PP      &kp C_NEXT    &kp LG(SPACE)  &kp DEL         &kp C_VOL_DN                &kp LC(Z)  &kp DOWN_ARROW  &none      &kp C_BRI_DN  &none
+                                         &kp LGUI      &none          &tp LALT RET    &tp LC(LS(LA(LGUI))) SPACE  &none      &none
             >;
         };
     };
