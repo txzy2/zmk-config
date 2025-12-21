@@ -1,5 +1,12 @@
 include:
+  # Основные рабочие прошивки
   - board: nice_nano
     shield: corne_left
   - board: nice_nano
     shield: corne_right
+  
+  # Прошивки для сброса настроек (Settings Reset)
+  - board: nice_nano
+    shield: corne_left settings_reset
+  - board: nice_nano
+    shield: corne_right settings_reset
