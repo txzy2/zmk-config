@@ -47,10 +47,10 @@
             //                    |     |     |    |                  |     |     |     |
 
             bindings = <
-&kp GRAVE      &kp EXCLAMATION  &kp AT_SIGN           &kp HASH  &kp DOLLAR         &kp PERCENT        &kp CARET       &kp AMPERSAND  &kp ASTERISK       &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp BACKSPACE
-&kp TILDE      &kp PIPE         &kp LA(LC(LG(LEFT)))  &kp DEL   &kp LC(LG(RIGHT))  &kp PRINTSCREEN    &kp MINUS       &kp EQUAL      &kp DOUBLE_QUOTES  &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp PRINTSCREEN
-&kp BACKSLASH  &kp F1           &kp F2                &kp F3    &kp F4             &kp F5             &kp UNDERSCORE  &kp QUESTION   &kp PLUS           &kp COLON             &kp SLASH              &bt BT_CLR_ALL
-                                                      &kp LGUI  &trans             &kp SPACE          &kp ENTER       &trans         &kp LCTRL
+&kp GRAVE      &kp EXCLAMATION  &kp AT_SIGN       &kp HASH  &kp DOLLAR         &kp PERCENT        &kp CARET       &kp AMPERSAND  &kp ASTERISK       &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp BACKSPACE
+&kp TILDE      &kp PIPE         &kp LC(LG(LEFT))  &kp DEL   &kp LC(LG(RIGHT))  &kp PRINTSCREEN    &kp MINUS       &kp EQUAL      &kp DOUBLE_QUOTES  &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp PRINTSCREEN
+&kp BACKSLASH  &kp F1           &kp F2            &kp F3    &kp F4             &kp F5             &kp UNDERSCORE  &kp QUESTION   &kp PLUS           &kp COLON             &kp SLASH              &bt BT_CLR_ALL
+                                                  &kp LGUI  &trans             &kp SPACE          &kp ENTER       &trans         &kp LCTRL
             >;
         };
 
